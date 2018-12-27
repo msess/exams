@@ -9,6 +9,7 @@ This website is intended for educational purposes only. MSESS does not claim to 
 1. Fork this repository (MSESS/exams)
 
 In your fork (YOUR_NAME/exams) conduct the following steps:
+
 2. Create a folder for the course whose exams you wish to add (if it doesnt already exist)
 3. Create a folder inside the course folder for whether it's a Final or Midterm (if it doesnt already exist)
 4. Copy the final/midterm into the folder
