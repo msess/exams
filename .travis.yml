@@ -1,4 +1,8 @@
 language: bash
-
 script:
-        - common/travis/checkFileName.sh
+    - common/travis/checkFileName.sh
+after_success:
+    - common/travis/push.sh
+env:
+  global:
+    secure: V7qfwXcsgm9hq4PutNo0nAQjp9W6Ep7xEioHgeycUf+BVRI8Hg1K9Jx39bJ98vJ0Sf8UP077VGKGHd95R9AWtI7k1M6eWyBrEJJpE6z6hjW+Bsr7Ay4CFpWEMqIpl0489SiTgKbMp/M92E8bQmnvtZRrJIPSb2M5B/boys/N1p6lDEoKdTdxBOEQIUL6he5rFvp/KTUVLt2TEOb9L2S9bf7KcqCAhCtwRYP/f8m8328tKhOGQ1bc3JAfUO5RydMETDLBiSez8r/oWWiPkH7NxBxRIjHCMufFgPFmD+pEFocc8NprO60l9Z6b/aeB0KG7LgAt5ZaxxlbQe5suFzN1MjUVETBhIGBpR3jvIj468uQ7+CePBiLXnBbd/l+O6OXJcD/5HoACZ/a28c+59Zj/NlAA+adrYMlzUn2+IsQWQcNk+CX8AsILHrE9OAbqG9FIa6wC/tHSLUZrEHa+ohYteOr20rjrVn3M71JQ7fuJFqm1SmEqZ9VZDf0KFIOgfG6q4rChWxFAsHKRXpSI4LuYmaGqDkjkJJbpQS6yT9dz6y1u12OjVwzPXrBEg3PRuSRlDe/SIWYSj0WADTtAFmiq8SG3ejM2GDoie0RgxM9cQ3ZiyBeR2YE9fLkU+67coayBuuiEQY3yHgrCBXdS775KlS2bXgcbJ3j0FD5eOK+EJ7o=
