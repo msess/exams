@@ -12,7 +12,7 @@ setup_git() {
 commit_website_files() {
   git clone https://${GH_TOKEN}@github.com/msess/msess.github.io.git > /dev/null 2>&1
   cd msess.github.io
-  git submodule update --remote --merge > /dev/null 2>&1
+  git submodule update --remote --merge
   git add exams
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER Update exam bank"
 }
