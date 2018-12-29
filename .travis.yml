@@ -1,0 +1,4 @@
+language: bash
+
+script:
+        - common/travis/checkFileName.sh
