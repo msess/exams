@@ -10,13 +10,14 @@ This website is intended for educational purposes only. MSESS does not claim to 
 
 In your fork (YOUR_NAME/exams) conduct the following steps:
 
-2. Create a folder for the course whose exams you wish to add (if it doesnt already exist)
+2. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add (if it doesnt already exist)
 3. Create a folder inside the course folder for whether it's a Final or Midterm (if it doesnt already exist)
 4. Copy the final/midterm into the folder
-5. Upload the exams
-6. Send a pull request to the MSESS/exams repository
+5. Rename the file to: Summer|Fall|Spring-YEAR-ANYTHING_ELSE_YOU_WANT.pdf
+6. Upload the exams
+7. Send a pull request to the MSESS/exams repository
 
-The folder structure and names are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
+The folder structure and names (Caps, spacing, and info needed) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
 
 
 ## For admins only
