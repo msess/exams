@@ -7,10 +7,10 @@ This website is intended for educational purposes only. MSESS does not claim to 
 ## How to add an exam
 
 On your local computer conduct the following steps: 
-1. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add (if it doesnt already exist)
-2. Create a folder inside the course folder named Final or Midterm (if it doesnt already exist)
-3. Copy the final/midterm into the folder
-4. Rename the file to: Summer|Fall|Spring-YEAR-ANYTHING_ELSE_YOU_WANT.pdf
+1. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add
+2. Create a folder inside the course folder named Final, Homework or Midterm
+3. Copy the final/midterm/homework into the folder named Final/Midterm/Homework
+4. Rename the final/midterm/homework file to: Summer|Fall|Spring-YEAR-ANYTHING_ELSE_YOU_WANT.pdf
 
 On github conduct the following steps:
 5. Fork this repository (MSESS/exams)
