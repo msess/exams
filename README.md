@@ -27,12 +27,25 @@ The folder structure and names (Caps, spacing, and info needed) are crucial. Ple
 
 ## For admins only
 
+Updating msess.ca to automatically rebuild is automated using travis. See: 
+https://github.com/msess/exams/blob/master/common/travis/checkFileName.sh
+
+https://github.com/msess/exams/blob/master/.travis.yml
+
+**Please note that if $ common/travis/push.sh fails, travis will still give a green checkmark on the merged commit. Please click the arrow next to $ common/travis/push.sh in the build log in travis merged commit to see what went wrong if msess.ca's exam bank doesnt have the exam you just uploaded.**
+
+99.9% of the time you wont have to do anything once you click the green merge button on the pull request in the github webgui. However, if travis starts giving errors in the `$ common/travis/push.sh` section you will have to manually update msess.ca. Here are the instructions on how to manually update msess.ca's exam bank to the current commit.
+
+### Manual Updating
+
 Once the new exam has been added to the MSESS/exams repository (the pull request has been accepted), you must tell the msess/msess.github.io (our website's repository) to regenerate and load the new exam.
 
-1. Open the msess.github.io repository
-2. `cd exams`
-3. Download the latest commit: `git pull origin master`
-4. go back to the root of the msess.github.io repository: `cd ..`
-5. Tell git to use the latest commit in exams to build the website: `git add exams`
-6. `git commit -m "Update exambank"`
+1. `git clone https://github.com/msess/msess.github.io.git`
+2. `cd msess.github.io`
+3. `git submodule update --init --recursive`
+4. `git submodule update --recursive --remote`
+5. `git add exams`
+6. `git commit -m "updated exam bank"`
 7. `git push origin master`
+
+remember to use `git status` often and google your errors.
