@@ -8,6 +8,8 @@ This website is intended for educational purposes only. MSESS does not claim to 
 
 On your local computer conduct the following steps: 
 1. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add
+NOTE: If the course is for grad students as well, you may name the course folder `MSE 480+780` where 480 is the undergrad course number and 780 is the graduate course number.
+
 2. Create a folder inside the course folder named Final, Homework or Midterm
 3. Copy the final/midterm/homework into the folder named Final/Midterm/Homework
 4. Rename the final/midterm/homework file to: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
