@@ -10,7 +10,7 @@ On your local computer conduct the following steps:
 1. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add
 2. Create a folder inside the course folder named Final, Homework or Midterm
 3. Copy the final/midterm/homework into the folder named Final/Midterm/Homework
-4. Rename the final/midterm/homework file to: Summer|Fall|Spring-YEAR-ANYTHING_ELSE_YOU_WANT.pdf
+4. Rename the final/midterm/homework file to: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
 
 On github conduct the following steps:
 5. Fork this repository (MSESS/exams)

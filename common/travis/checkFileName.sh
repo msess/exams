@@ -10,7 +10,7 @@ wronglyNamedFiles=$(find . -type f |
     grep -v './.travis.yml' |
     grep -v '^./common/' |
     # print file names that do not match proper naming scheme
-    grep -vE '^.\/[A-Z]+ [0-9]+\/(Final|Midterm|Homework)\/(Summer|Fall|Spring)-[0-9]{4}[^/]+$'
+    grep -vE '^.\/[A-Z]+ [0-9]+\/(Final|Midterm|Homework)\/[0-9]{4}-(Summer|Fall|Spring)[^/]+$'
     )
 
 if [ ! -z "$wronglyNamedFiles" ]
