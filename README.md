@@ -7,6 +7,7 @@ This website is intended for educational purposes only. MSESS does not claim to 
 ## How to add an exam
 
 On your local computer conduct the following steps:
+
 1. Create a new folder for each course (named: MSE|ENSC|ECON ###) whose exams you wish to add.
 
 NOTE: The "|" operators denote your options for naming things (RegEx syntax)
@@ -18,6 +19,7 @@ NOTE: If the course is for grad students as well, you may name the course folder
 4. Rename all PDF files to the format: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
 
 On github conduct the following steps:
+
 5. Fork this repository (MSESS/exams)
 
 In your fork (YOUR_NAME/exams) conduct the following steps:
