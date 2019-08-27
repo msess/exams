@@ -9,7 +9,7 @@ This website is intended for educational purposes only. MSESS does not claim to 
 On your local computer conduct the following steps:
 1. Create a new folder for each course (named: MSE|ENSC|ECON ###) whose exams you wish to add.
 
-NOTE: RegEx syntax is used throughout this readme file, and the "|" operators denote your options for naming things.
+NOTE: The "|" operators denote your options for naming things (RegEx syntax)
 
 NOTE: If the course is for grad students as well, you may name the course folder `MSE 480+780` where 480 is the undergrad course number and 780 is the graduate course number.
 
