@@ -6,14 +6,15 @@ This website is intended for educational purposes only. MSESS does not claim to 
 
 ## How to add an exam
 
-On your local computer conduct the following steps: 
-1. Create a folder for the course (named: MSE|ENSC|ECON ###) whose exams you wish to add
+On your local computer conduct the following steps:
+1. Create a new folder for each course (named: MSE|ENSC|ECON ###) whose exams you wish to add.
 
+NOTE: RegEx syntax is used throughout this readme file, and the "|" operators denote your options for naming things.
 NOTE: If the course is for grad students as well, you may name the course folder `MSE 480+780` where 480 is the undergrad course number and 780 is the graduate course number.
 
-2. Create a folder inside the course folder named Final, Homework, Quiz, Assignments, or Midterm
-3. Copy the final/midterm/homework/quiz/assignment into the folder named Final/Midterm/Homework/Quiz/Assignments
-4. Rename the final/midterm/homework/quiz/assignment file to: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
+2. Create folders inside the course folder named Final, Homework, Quiz, Assignments, or Midterm, as needed.
+3. Copy your PDF files into the appropriate subfolders created in step 2.
+4. Rename all PDF files to the format: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
 
 On github conduct the following steps:
 5. Fork this repository (MSESS/exams)
@@ -22,10 +23,11 @@ In your fork (YOUR_NAME/exams) conduct the following steps:
 
 6. Click the `Upload files` button
 7. Drag and drop the course folder (named: MSE|ENSC|ECON ### from step 1) into the drop area
-8. Write a good commit message and press commit changes button
+8. Write a commit message explaining what you uploaded or anything you want MSESS to know, and press `Commit changes` button
 9. Send a pull request to the MSESS/exams repository
+10. You may delete your fork of the exam bank once you are sure the pull request has been accepted.
 
-The folder structure and names (Caps, spacing, and info needed) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
+The folder structure and names (Capitalization, spacing, dashes, and keywords shown above) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
 
 
 ## For admins only
