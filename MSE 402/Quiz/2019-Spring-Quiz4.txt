@@ -1,0 +1,221 @@
+Question 1
+0 / 0.1 pts
+Which of the following mandates errors and omission insurance for Engineers practicing in BC?
+
+  BC Provincial Government 
+  Engineers and Geosciencists Act 
+  Federal Government 
+You Answered
+  
+EGBC
+
+Correct Answer
+  Engineers Canada 
+ 
+Question 2
+0.1 / 0.1 pts
+The definition of the term "business" as "An enterprise organized for the purpose of making a profit through trade or service" is found in which of the following:
+
+  Canada Business Incorporations Act 
+  BC Business Corporations Act 
+  Business Development Bank of Canada Act 
+Correct!
+  Nowhere. The term is not formally defined but rather has specific conventional uses depending on the context.
+ 
+Question 3
+0.1 / 0.1 pts
+Corporations have a legal identity and are considered "persons" under the law.
+HINDY: In recent times, american courts have been granting corporations the eqivalent of human rights. Mind blowing!
+
+Correct!
+  True 
+  False 
+ 
+Question 4
+0 / 0.1 pts
+___ is the extent to which assets of the individuals owning the business are available to satisfy creditors.
+HINDY: There's nothing special about ...
+
+  Profit 
+You Answered
+  Solvency 
+  Income 
+Correct Answer
+  Liability 
+  Liquidity 
+ 
+Question 5
+0.1 / 0.1 pts
+It is never possible for a creditor to access a business owner's personal assets to satisfy a debt.
+HINDY: If you're setup as a sole proprietership, or a partnership, your personal assets are available. That's one of the benefits of incorporating.
+
+  True 
+Correct!
+  False 
+ 
+Question 6
+0.1 / 0.1 pts
+Select the form(s) of business organization that has/have only one level of tax.
+HINDY: Any incorporated form of business has >1 level of tax. Partnerships are technically firms, the name accociated with partnership is "firm". "Firm" is suffixed to a company name just like "inc" to indicate their status.
+How to create a limited partnership: Under the partnership act or provincial equivalent, there is a special provision that allows creating a limited partnership. You do that by filing documentation that limits responsibility of certain members, transferring it to others.
+
+  Incorporations 
+Correct!
+  Partnerships 
+Correct!
+  Limited Partnerships 
+Correct!
+  Firms 
+  Companies 
+Correct!
+  Sole Proprietorship 
+ 
+Question 7
+0.1 / 0.1 pts
+A sole proprietor is not permitted to hire employees
+HINDY: For this reason, the outward appearance of a sole proprietership may not look any differnt from an incorporation.
+
+  True 
+Correct!
+  False 
+ 
+Question 8
+0.1 / 0.1 pts
+Business partners have a fiduciary duty to disclose individual business activities taken outside the partnership to each other.
+HINDY: Must do this no matter what- even if not related to engineering business.
+
+Correct!
+  True 
+  False 
+ 
+Question 9
+0.1 / 0.1 pts
+Documents which create a corporation and define its nature and scope of business as well as set out shares are known as ___ documents.
+HINDY: Constating documents include shareholder's agreements, articles of incorporation, bylaws.
+
+Correct!
+constating
+Correct Answers
+constating 
+constateing 
+ 
+Question 10
+0.1 / 0.1 pts
+Who appoints the directors of a company?
+
+  Owners 
+Correct!
+  Shareholders 
+  Officers 
+  Corporate legal counsel 
+  Employees 
+  Registrar of Companies 
+ 
+Question 11
+0.05 / 0.1 pts
+Intellectual Property can also be described as __.  
+
+Correct!
+  legally protected creations of the mind 
+  real property 
+  tangible personal property 
+You Answered
+  intangible real property 
+Correct!
+  intangible personal property 
+ 
+Question 12
+0 / 0.1 pts
+Intellectual Property Law alters the traditional concept of property ownership.
+
+Correct Answer
+  True 
+You Answered
+  False 
+ 
+Question 13
+0.1 / 0.1 pts
+___ is any confidential business information which provides an enterprise a competitive edge
+
+  patent 
+  Copyright 
+  Trade Mark 
+  Integrated Circuit Topography 
+Correct!
+  Trade Secret 
+  Industrial Design 
+ 
+Question 14
+0.1 / 0.1 pts
+The text of computer software code would be protected under which of the following?
+
+  patent 
+Correct!
+  copyright 
+  trademark 
+  integrated circuit topography 
+  Trade Secret 
+  Industrial Design 
+ 
+Question 15
+0.1 / 0.1 pts
+CAD and other engineering drawing may be included under copyright protection as examples of artistic works.
+
+Correct!
+  True 
+  False 
+ 
+Question 16
+0.1 / 0.1 pts
+Select the items that are generally not able to be protected under intellectual property law.
+
+  Improvements to Inventions 
+  Recipes 
+Correct!
+  Ideas 
+Correct!
+  Unoriginal works 
+  Atheistic features of products 
+Correct!
+  Facts 
+  Processes 
+ 
+Question 17
+0.1 / 0.1 pts
+A(n) ___ is a bargain between the State and an owner to provide a time limited exclusive right in an invention to the owner in exchange for a useful disclosure of the invention from the owner to the public
+
+Correct!
+patent
+Correct Answers
+Patent 
+Patant 
+ 
+Question 18
+0 / 0.1 pts
+The boundaries of the invention are set out in which section of a patent?
+
+  Abstract 
+You Answered
+  Description of usefulness 
+  Description of invention 
+Correct Answer
+  Claims 
+  Drawings 
+ 
+Question 19
+0.1 / 0.1 pts
+It is not necessary for a provisional patent to include claims.
+
+Correct!
+  True 
+  False 
+ 
+Question 20
+0.1 / 0.1 pts
+A patent search is done to address which branch of the patentability test? 
+
+Correct!
+  Novelty 
+  Usefulness 
+  Non-obviousness 
+  Best -use 
