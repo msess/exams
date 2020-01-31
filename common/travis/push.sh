@@ -11,8 +11,8 @@ setup_git() {
 
 commit_website_files() {
   # git clone https://github.com/msess/msess.github.io.git > /dev/null 2>&1
-  git clone https://${GH_TOKEN}@github.com/msess/msess.github.io.git > /dev/null 2>&1
-  cd msess.github.io
+  git clone "https://${GH_TOKEN}@github.com/msess/msess.github.io.git" > /dev/null 2>&1
+  cd msess.github.io || exit 1
   git submodule update --init --recursive
   git submodule update --recursive --remote
   git add exams

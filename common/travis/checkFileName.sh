@@ -13,10 +13,10 @@ wronglyNamedFiles=$(find . -type f |
     grep -vE '^.\/[A-Z]+ ([0-9]{3}|[0-9]{3}\+[0-9]{3})\/(Final|Midterm|Homework|Quiz|Assignments)\/[0-9]{4}-(Summer|Fall|Spring)[^/]+$'
     )
 
-if [ ! -z "$wronglyNamedFiles" ]
+if [ -n "$wronglyNamedFiles" ]
 then
    echo "The following files are not named with the proper naming convention and/or not placed in the proper folder hierarchy:"
-   echo $wronglyNamedFiles
+   echo "$wronglyNamedFiles"
    exit 1
 fi
 exit 0
