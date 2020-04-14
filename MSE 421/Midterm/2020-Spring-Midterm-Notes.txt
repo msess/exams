@@ -1,0 +1,6 @@
+1.a Choosing parameters for optimizing an accelerometer
+ .b Choosing parameters for optimizing a seismometer
+2.  How to get the damping coefficient for a non-linear energy dissipator, such as friction.
+3.  Mass and spring system
+4.  Mass, spring, and damper system
+5.  Finding c for a system

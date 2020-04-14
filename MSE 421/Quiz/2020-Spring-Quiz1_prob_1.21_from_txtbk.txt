@@ -1,0 +1,7 @@
+Textbook problem 1.21 (diagram is in textbook)
+
+A machine part is modeled as a pendulum connected to a spring as illustrated in
+Figure P1.21. Ignore the mass of the pendulum’s rod and derive the equation of mo-
+tion. Then following the procedure used in Example 1.1.1, linearize the equation of
+motion and compute the formula for the natural frequency. Assume that the rotation
+is small enough so that the spring only deflects horizontally.
