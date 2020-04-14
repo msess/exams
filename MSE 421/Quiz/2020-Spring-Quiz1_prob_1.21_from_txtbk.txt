@@ -1,4 +1,6 @@
 Textbook problem 1.21 (diagram is in textbook)
+Textbook:
+Engineering Vibration 4th Edition, Daniel J. Inman (University of Michigan), 2014 Pearson Education, New Jersey
 
 A machine part is modeled as a pendulum connected to a spring as illustrated in
 Figure P1.21. Ignore the mass of the pendulum’s rod and derive the equation of mo-
