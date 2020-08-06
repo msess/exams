@@ -1,0 +1,44 @@
+Exam was 9 questions long, Canvas Quiz. The questions shown here are the more difficult/longer ones.
+
+
+QUESTION 1
+
+Consider the controller LaTeX: D\left(z\right)=\frac{\left(10.3469\:z^2-7.2689\:z\right)}{7.1724\:z^2-7.1724\:z} D ( z ) = ( 10.3469 z 2 − 7.2689 z ) 7.1724 z 2 − 7.1724 z
+Write a pseudo code program using the skeleton code below to implement this controller in practice. (5 marks)
+Discuss the stability of this controller referring to the z-plane. (2 marks)
+
+Pseudo Skeleton Code Sample:
+
+// Initialize  variables here
+
+Start timed-loop @ Ts
+	// Loop body goes here use plain words such as
+	// set x to 5
+	// calculate y=7z-3, etc.
+End timed-loop
+
+Please note
+1. Show your work and steps to find the result, do not state the final answer only.
+2. Round to the nearest 4 decimal points (e.g. 3.1416)
+
+
+
+QUESTION 2
+
+Observe the following Traffic light PLC program and:
+-Explain how the traffic light will behave to a pedestrian user (state the light patterns and delays in seconds). (2 marks)
+-Find the bug and describe it in your own words (3 marks)
+-Propose a reasonable, simple solution (2 marks)
+
+(following was an image of the PLC memory page in binary mode, and tiny ladder logic code of 3 rungs, two sequencer blocks reading from the shown memory page)
+
+QUESTION 3
+
+Find LaTeX: D\left(z\right) D ( z ) for the controller with a transfer function LaTeX: D\left(s\right)=\frac{\left(1.5s+1.5\right)}{s+3} D ( s ) = ( 1.5 s + 1.5 ) s + 3 using the Matched Pole-Zero method.
+
+Please note
+1. Show your work and steps to find the result, do not state the final answer only.
+2. Round to the nearest 4 decimal points (e.g. 3.1416)
+
+
+
