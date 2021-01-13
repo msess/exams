@@ -1,6 +1,6 @@
 # exams
 
-The exams here have been graciously donated by MSE students (all of whom are members of the MSESS). If you would like to donate an exam you have, please send an email to services@msess.ca with your exam or give it to an member of the MSESS exec team.
+The exams here have been graciously donated by MSE students (aka MSESS members). If you would like to quickly donate an exam you have, please send an email to services@msess.ca with your exam or give it to a member of the MSESS executive team. Alternatively, you can send a pull request with your added exams as described below.
 
 This website is intended for educational purposes only. MSESS does not claim to own any of these documents, they are the property of their respectful owners. If you feel any of the material should be taken down, please contact services@msess.ca and it will be taken down immediately.
 
@@ -8,15 +8,15 @@ This website is intended for educational purposes only. MSESS does not claim to 
 
 On your local computer conduct the following steps:
 
-1. Create a new folder for each course (named: MSE|ENSC|ECON ###) whose exams you wish to add.
+1. Create a new folder for each course named: "AAA ###" where AAA is the course topic such as: MSE, ENSC, ECON, 
 
-NOTE: The "|" operators denote your options for naming things (RegEx syntax)
+NOTE: The folder structure and names (Capitalization, spacing, dashes, and keywords shown above) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
 
 NOTE: If the course is for grad students as well, you may name the course folder `MSE 480+780` where 480 is the undergrad course number and 780 is the graduate course number.
 
-2. Create folders inside the course folder named Final, Homework, Quiz, Assignments, or Midterm, as needed.
+2. Create folders inside the course folder named Final, Midterm, Quiz, Homework, or Assignments, as needed.
 3. Copy your PDF files into the appropriate subfolders created in step 2.
-4. Rename all PDF files to the format: YEAR-Summer|Fall|Spring-ANYTHING_ELSE_YOU_WANT.pdf
+4. Rename all PDF files to the format: YYYY-SEASON-ORIGINAL_FILENAME.pdf where "SEASON" is Spring, Summer, or Fall. Keep the original Canvas filename if applicable.
 
 On github conduct the following steps:
 
@@ -29,9 +29,6 @@ In your fork (YOUR_NAME/exams) conduct the following steps:
 8. Write a commit message explaining what you uploaded or anything you want MSESS to know, and press `Commit changes` button
 9. Send a pull request to the MSESS/exams repository
 10. You may delete your fork of the exam bank once you are sure the pull request has been accepted.
-
-NOTE: The folder structure and names (Capitalization, spacing, dashes, and keywords shown above) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
-
 
 ## For admins only
 
