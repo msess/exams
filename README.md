@@ -10,13 +10,13 @@ On your local computer conduct the following steps:
 
 1. Create a new folder for each course named: "AAA ###" where AAA is the course topic such as: MSE, ENSC, ECON, 
 
-NOTE: The folder structure and names (Capitalization, spacing, dashes, and keywords shown above) are crucial. Please take a look at other exams that have already been uploaded to see how to capitalize and name files.
-
 NOTE: If the course is for grad students as well, you may name the course folder `MSE 480+780` where 480 is the undergrad course number and 780 is the graduate course number.
 
 2. Create folders inside the course folder named Final, Midterm, Quiz, Homework, or Assignments, as needed.
 3. Copy your PDF files into the appropriate subfolders created in step 2.
 4. Rename all PDF files to the format: YYYY-SEASON-ORIGINAL_FILENAME.pdf where "SEASON" is Spring, Summer, or Fall. Keep the original Canvas filename if applicable.
+
+NOTE: The folder structure and names (Capitalization, spacing, dashes, and keywords shown above) are crucial. Please match the format of existing files.
 
 On github conduct the following steps:
 
